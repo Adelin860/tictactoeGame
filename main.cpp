@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string.h>
 struct winner
 {
     bool win = false;
